@@ -5,10 +5,10 @@ The **Smart Health Risk Predictor** is a machine learning-based web application 
 
 ##  Project Overview
 
-- 🧠 **Purpose**: Predict health risks using ML
-- 🗂️ **Input**: User data (age, weight, symptoms, blood pressure, etc.)
-- 🏷️ **Output**: Risk prediction for diseases (e.g., diabetes, heart disease)
-- 🌐 **Interface**: User-friendly web UI
+-  **Purpose**: Predict health risks using ML
+-  **Input**: User data (age, weight, symptoms, blood pressure, etc.)
+-  **Output**: Risk prediction for diseases (e.g., diabetes, heart disease)
+-  **Interface**: User-friendly web UI
 
 
 ##  Technologies Used
